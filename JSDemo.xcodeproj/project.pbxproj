@@ -13,6 +13,7 @@
 		D095BBEB1F14CF64004AA2B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D095BBE91F14CF64004AA2B0 /* Main.storyboard */; };
 		D095BBED1F14CF64004AA2B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D095BBEC1F14CF64004AA2B0 /* Assets.xcassets */; };
 		D095BBF01F14CF64004AA2B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D095BBEE1F14CF64004AA2B0 /* LaunchScreen.storyboard */; };
+		D095BBF81F14D083004AA2B0 /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = D095BBF71F14D083004AA2B0 /* test.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D095BBEC1F14CF64004AA2B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D095BBEF1F14CF64004AA2B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D095BBF11F14CF64004AA2B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D095BBF71F14D083004AA2B0 /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D095BBE41F14CF64004AA2B0 /* AppDelegate.m */,
 				D095BBE61F14CF64004AA2B0 /* ViewController.h */,
 				D095BBE71F14CF64004AA2B0 /* ViewController.m */,
+				D095BBF71F14D083004AA2B0 /* test.html */,
 				D095BBE91F14CF64004AA2B0 /* Main.storyboard */,
 				D095BBEC1F14CF64004AA2B0 /* Assets.xcassets */,
 				D095BBEE1F14CF64004AA2B0 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D095BBF81F14D083004AA2B0 /* test.html in Resources */,
 				D095BBF01F14CF64004AA2B0 /* LaunchScreen.storyboard in Resources */,
 				D095BBED1F14CF64004AA2B0 /* Assets.xcassets in Resources */,
 				D095BBEB1F14CF64004AA2B0 /* Main.storyboard in Resources */,
